@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'powerpack'
 gem 'kaminari'
 gem 'kaminari-bootstrap', '~> 3.0.1'
 
